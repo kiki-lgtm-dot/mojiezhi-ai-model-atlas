@@ -98,7 +98,7 @@ export default function Home() {
           <aside className="issue-card" aria-label="本期摘要">
             <p className="issue-label">完整数据集</p><div className="issue-number">24</div>
             <p>家代表厂商；网页提供精选交互，完整明细可下载 Excel。</p>
-            <dl><div><dt>订阅档位</dt><dd>45 个</dd></div><div><dt>时间轴</dt><dd>96 个节点</dd></div><div><dt>API 价格</dt><dd>44 条</dd></div><div><dt>公开案例</dt><dd>25 个</dd></div></dl>
+            <dl><div><dt>订阅档位</dt><dd>46 个</dd></div><div><dt>时间轴</dt><dd>96 个节点</dd></div><div><dt>API 价格</dt><dd>52 条</dd></div><div><dt>公开案例</dt><dd>25 个</dd></div></dl>
           </aside>
         </section>
 
@@ -267,7 +267,7 @@ export default function Home() {
         </section>
       </main>
 
-      <footer><span>模界志 · AI 模型决策周报</span><span>完整数据集：45 个订阅档位 · 24 家模型厂商 · 44 条 API 价格 · 25 个案例</span><span>每周一更新 · 最后核验 {updateBrief.lastVerified}</span></footer>
+      <footer><span>模界志 · AI 模型决策周报</span><span>完整数据集：46 个订阅档位 · 24 家模型厂商 · 52 条 API 价格 · 25 个案例</span><span>每周一更新 · 最后核验 {updateBrief.lastVerified}</span></footer>
     </div>
   );
 }
